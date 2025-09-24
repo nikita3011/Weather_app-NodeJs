@@ -20,11 +20,11 @@ It takes an address, finds its coordinates using **Mapbox**, and fetches real-ti
 
 ### 📦 Setup
 
-```bash
 git clone <repo-url>
 cd Weather_app-NodeJs
 npm install
-```
+
+
 
 Set up your environment variables (recommended via a `.env` file):  
 ```env
