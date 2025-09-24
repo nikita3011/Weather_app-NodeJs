@@ -44,17 +44,6 @@ Open in your browser: [http://localhost:3000](http://localhost:3000/)
 
 ***
 
-### 🌍 Usage
-
-- Visit the web app, enter a location, and get the current forecast instantly!  
-- Or use the API directly:  
-
-```bash
-curl "http://localhost:3000/weather?address=Berlin"
-```
-
-***
-
 ### 🔄 Project Flow
 ```mermaid
 flowchart TD
@@ -86,13 +75,7 @@ templates/     # Handlebars views and partials
 
 ***
 
-### 📄 License
-This project is licensed under the **ISC License** (see `package.json`).  
-
-***
-
-### 🙌 Credits
-Built with:  
+### 📄 Built with
 - Node.js  
 - Express  
 - Handlebars  
