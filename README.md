@@ -1,6 +1,6 @@
 ***
 
-# 🌤️ Weather App (Node.js)
+# 🌤️ Weather-Checker-Node
 
 A simple **Node.js web app** that lets you check the current weather for any location.  
 It takes an address, finds its coordinates using **Mapbox**, and fetches real-time weather data from a third-party API.  
